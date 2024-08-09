@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fruit Product page Grocies </title>
+    <link rel="stylesheet" href="style_sheet.css">
+    <script src="https://kit.fontawesome.com/f348914ef2.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="header">
+        <img src="image/logo.jpeg" alt="Grocies Logo" class="logo">
+        <input hidden type="checkbox" id="toggle">
+        <label for="toggle" class="hamburger">&#9776;</label>
+        <div class="navbar" id="navbar">
+            <a href="index.html">HOME</a>
+            <a href="about-pg.html">ABOUT</a>
+            <div class="dropdown">
+                <button class="dropbtn">Products
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="dairy-products-pg.html">Dairy</a>
+                    <a href="baking-page.html">Baking</a>
+                    <a href="meat-page.html">Meat</a>
+                    <a href="fruit-page.html">Fruits</a>
+                    <a href="vegetable-page.html">Vegetables</a>
+                </div>
+            </div>
+            <a href="loyalty-pg.html">LOYALTY</a>
+            <a href="cart.html">CART</a>
+            <a href="checkout.html">CHECKOUT</a>
+        </div>
+    </header>
+<div class="searchbar">
+<form>
+    <input type="text" placeholder="Search..." >
+    <button type="submit">GO</button>
+</form>
+</div>
+
+<section>
+    <div class="daily_header">
+      <h1 id="category">Fruits</h1>
+    </div>
+    <br>
+</section>
+
+
+<br> <br>
+
+<div>
+<div class="products" id="product-list"></div>
+  <script src="js/script.js"></script>
+</div>
+
+<br> <br>
+
+<footer class="footer">
+    <div class="footer-container">
+        <div class="footer-about">
+            <h2>About Grocies</h2>
+            <p>Grocies Supermarket is dedicated to providing the best quality products and exceptional customer service. Your friendly neighborhood grocery store for all your needs.</p>
+        </div>
+
+        <div class="footer-contact">
+            <h2>Contact Us</h2>
+            <ul>
+                <li>Email: support@grocies.com</li>
+                <li>Phone: +123-456-7890</li>
+                <li>Address: 123 Grocery Street, Market City</li>
+            </ul>
+        </div>
+
+        <div class="footer-social">
+            <h2>Follow Us</h2>
+            <div class="social-icons">
+                <a href="https://www.facebook.com/" class="icon-link"><i class="fa fa-facebook fa-2x"></i></a>
+                <a href="https://x.com/i/flow/login" class="icon-link"><i class="fa fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" class="icon-link"><i class="fa fa-instagram fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2024 Grocies. All rights reserved.</p>
+    </div>
+</footer>
+<script src="js/nav.js"></script>
+</body>
+</html>

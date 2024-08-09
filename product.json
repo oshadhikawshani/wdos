@@ -1,0 +1,85 @@
+{
+    "categories": [
+      {
+        "name": "Dairy Products",
+        "image": "image/dairy products/milk prodcuts  image.jpg",
+        "url": "Dairy-Products.html",
+        "products": [
+          { "productid": "1", "name": "Milk", "Description": "Savor the pure goodness of fresh milk", "price": 950, "image": "image/dairy products/milk.jpg", "quantity": 10},
+          { "productid": "2", "name": "Cheese", "Description": "Discover the diverse flavors and textures of cheese.", "price": 450, "image": "image/dairy products/cheese.jpg", "quantity": 13},
+          { "productid": "3", "name": "Yogurt", "Description": "Boost your gut health with probiotic dairy products.", "price": 100, "image": "image/dairy products/yourgut.jpg", "quantity": 18},
+          { "productid": "4", "name": "Butter", "Description": "Enhance your meals with the high-quality butter.", "price": 100, "image": "image/dairy products/butter.jpg", "quantity": 18},
+          { "productid": "5", "name": "Milk powder", "Description": "Long-lasting milk powder for all your dairy needs." , "price": 200, "image": "image/dairy products/milk powder.jpeg", "quantity": 18},
+          { "productid": "6", "name": "Egg", "Description": "Fuel your day with the high-protein power of eggs.", "price": 100, "image": "image/dairy products/Eggs.jpg", "quantity": 18},
+          { "productid": "7", "name": "Ice cream", "Description": "Indulge your sweet tooth with creamy ice cream.", "price": 100, "image": "image/dairy products/ice cream.webp" , "quantity": 18}
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "image": "image/vegetable/vegetables img.jpg",
+        "url": "vegetable-page.html",
+        "products": [
+      { "productid": "11", "name": "Tomato", "Description": "Savor the pure goodness of fresh milk", "price": 950, "image":"image/vegetable/tomato.jpg"  , "quantity": 10},
+      {   "productid": "12", "name": "Pumpkin", "Description": "Fresh and delicious pumpkin for your recipes.", "price": 500, "image": "image/vegetable/pumpkin.jpg", "quantity": 15 },
+      { "productid": "13", "name": "Cabbage", "Description": "Crisp and nutritious cabbage.", "price": 500, "image": "image/vegetable/cabbage.png", "quantity": 20 },
+      { "productid": "14", "name": "Bush Beans", "Description": "Fresh bush beans for a healthy meal.", "price": 400, "image": "image/vegetable/bush beans.webp", "quantity": 25 },
+      { "productid": "15", "name": "Potato", "Description": "Versatile and tasty potatoes.", "price": 400, "image": "image/vegetable/potato img.jpg", "quantity": 30 },
+      { "productid": "16", "name": "Beetroot", "Description": "Fresh and healthy beetroot.", "price": 370, "image": "image/vegetable/beetroot.jpg", "quantity": 18 },
+      { "productid": "17", "name": "Sweet Potato", "Description": "Sweet and nutritious sweet potatoes.", "price": 200, "image": "image/vegetable/sweet potato img.jpg", "quantity": 22 },
+      { "productid": "18", "name": "Mushroom", "Description": "Fresh and flavorful mushrooms.", "price": 500, "image": "image/vegetable/mushroom.jpg", "quantity": 15 },
+      { "productid": "19", "name": "Broccoli", "Description": "Fresh and healthy broccoli.", "price": 750, "image": "image/vegetable/broccoli.jpg", "quantity": 10 },
+      { "productid": "20", "name": "Bell Peppers", "Description": "Colorful and crisp bell peppers.", "price": 800, "image": "image/vegetable/bell peper.jpg", "quantity": 12 },
+      { "productid": "21", "name": "Baby Carrot", "Description": "Sweet and crunchy baby carrots.", "price": 880, "image": "image/vegetable/baby carrot.jpg", "quantity": 18 },
+      { "productid": "22", "name": "Baby Corn", "Description": "Tender and tasty baby corn.", "price": 770, "image": "image/vegetable/baby corn.jpg", "quantity": 20 }
+        ]
+      },
+      {
+        "name": "Fruits",
+        "image": "image/fruits/main fruits.jpg",
+        "url": "fruit-page.html",
+        "products": [
+
+              { "productid": "23", "name": "Apple", "Description": "Delight in the crisp, juicy essence of a fresh apple.", "price": 250, "image": "image/fruits/apple.jpg", "quantity": 20 },
+              { "productid": "24", "name": "Grapes", "Description": "Enjoy the burst of refreshing sweetness in every grape.", "price": 250, "image": "image/fruits/graphes.jpg", "quantity": 30 },
+              { "productid": "25", "name": "Mango", "Description": "Savor the succulent, tropical bliss of a perfectly ripe mango.", "price": 250, "image": "image/fruits/mango.jpg", "quantity": 25 },
+              { "productid": "26", "name": "Avocado", "Description": "Discover the creamy, rich texture and subtle taste of fresh avocado.", "price": 250, "image": "image/fruits/avacado.jpg", "quantity": 15 },
+              { "productid": "27", "name": "Papaya", "Description": "Indulge in the tropical sweetness and vibrant flavor of papaya.", "price": 250, "image": "image/fruits/papaya.jpg", "quantity": 18 },
+              { "productid": "28", "name": "Pineapple", "Description": "Relish the tropical tang and juicy sweetness of a fresh pineapple.", "price": 250, "image": "image/fruits/pineapple.jpg", "quantity": 20 },
+              { "productid": "29", "name": "Strawberry", "Description": "Enjoy the sweet, succulent burst of flavor in every juicy strawberry.", "price": 250, "image": "image/fruits/strawberry .jpg", "quantity": 22 },
+              { "productid": "30", "name": "Orange", "Description": "Revel in the zesty, juicy freshness of a sun-ripened orange.", "price": 250, "image": "image/fruits/orange.jpg", "quantity": 28 }
+
+        ]
+      },
+      {
+          "name": "Meat and Seafood",
+          "image": "image/meat/main-meat-seafood.jpg",
+          "url": "meat-page",
+          "products": [
+            { "productid": "31", "name": "Chicken", "Description": "Savor the rich, hearty flavor of premium Chicken.", "price": 500, "image": "image/meat/chicken.jpg", "quantity": 20 },
+            { "productid": "32", "name": "Beef", "Description": "Savor the rich, hearty flavor of premium beef.", "price": 1000, "image": "image/meat/beef.jpg", "quantity": 15 },
+            { "productid": "33", "name": "Mutton", "Description": "Indulge in the robust, savory goodness of succulent mutton.", "price": 1500, "image": "image/meat/mutton.jpg", "quantity": 10 },
+            { "productid": "34", "name": "Sausages", "Description": "Relish the flavorful, juicy bite of expertly crafted sausages.", "price": 500, "image": "image/meat/sausage.jpg", "quantity": 25 },
+            { "productid": "35", "name": "Fish", "Description": "Savor the fresh, delicate flavors of the catch of the day.", "price": 300, "image": "image/meat/fish.jpg", "quantity": 30 },
+            { "productid": "36", "name": "Dry Fish", "Description": "Feel a unique taste.", "price": 250, "image": "image/meat/dry fish.jpg", "quantity": 20 },
+            { "productid": "37", "name": "Prawn", "Description": "Indulge in the sweet, tender, and succulent taste of fresh prawns.", "price": 450, "image": "image/meat/prawn.jpg", "quantity": 18 },
+            { "productid": "38", "name": "Cuttlefish", "Description": "Delight in the tender, ocean-fresh taste of cuttlefish.", "price": 550, "image": "image/meat/cuttlefish.jpg", "quantity": 15 }
+          ]
+
+      },
+      {
+
+          "name": "Baking Produtcs",
+          "image": "image/baking/main-baking-cooking.jpg",
+          "url": "baking-page.html",
+          "products": [
+            { "productid": "41", "name": "Vanilla", "Description": "Rich vanilla flavor for your baking needs.", "price": 250, "image": "image/baking/vanila.jpg", "quantity": 20 },
+            { "productid": "42", "name": "Baking Soda", "Description": "Essential for perfect baking rise and texture.", "price": 250, "image": "image/baking/baking soda.jpg", "quantity": 30 },
+            { "productid": "43", "name": "Sugar Icing", "Description": "Sweet and smooth icing for decorating cakes.", "price": 250, "image": "image/baking/sugar icing.jpg", "quantity": 25 },
+            { "productid": "44", "name": "Turmeric", "Description": "Adds warm color and flavor to your dishes.", "price": 250, "image": "image/baking/turmeric.jpg", "quantity": 15 },
+            { "productid": "45", "name": "Salt", "Description": "Basic seasoning for enhancing flavors.", "price": 250, "image": "image/baking/salt.jpg", "quantity": 40 },
+            { "productid": "46", "name": "Chili Powder", "Description": "Adds a spicy kick to your recipes.", "price": 250, "image": "image/baking/chille powder.jpg", "quantity": 30 }
+          ]
+      }
+    ]
+  }
+
